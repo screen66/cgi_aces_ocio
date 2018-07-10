@@ -28,4 +28,4 @@ OCIO configs for CGI rendering with ACES 1.0.3.
 ### References
 LUTs used in this configuration were referenced from [hpd/OpenColorIO-Configs](https://github.com/hpd/OpenColorIO-Configs.git).
 
-Color transformation matrices used in this configuration were referenced from [RGB Colourspace Models Transformations Matrices](http://colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi).
+Color transformation matrices used in this configuration were referenced from [RGB Colourspace Models Transformations Matrices](https://www.colour-science.org:8010/apps/rgb_colourspace_models_transformation_matrix).
